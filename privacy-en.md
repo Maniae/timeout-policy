@@ -12,7 +12,9 @@ This is the privacy policy for **Timeout**, a party game app developed by Tom Ho
 
 **Nothing personal.** The app has no user accounts, no sign-up, no profiles. We do not ask for your name, email, location, contacts, photos, or any other personal information.
 
-**Anonymous usage statistics.** The app sends a few game events (the app opened or closed, a game started, a round or a game finished, a game abandoned, a deck opened, notifications accepted or refused, a notification opened) with the deck played, the number of players and teams, and the game's length, plus the app version, OS and language. They go to PostHog, hosted in the EU. They carry no identifier: nothing is stored on your device to recognize it, there is no user profile, your IP address is not used to locate you, and two games played on the same phone can't be linked together. Player names and card contents are never sent. These statistics are kept for at most 25 months, then deleted.
+**Anonymous usage statistics.** The app sends a few game events (the app opened or closed, a game started, a round or a game finished, a game abandoned, a deck opened, notifications accepted or refused, a notification opened, the in-app rating question answered, feedback sent) with the deck played, the number of players and teams, and the game's length, plus the app version, OS and language. They go to PostHog, hosted in the EU. They carry no identifier: nothing is stored on your device to recognize it, there is no user profile, your IP address is not used to locate you, and two games played on the same phone can't be linked together. Player names and card contents are never sent. These statistics are kept for at most 25 months, then deleted.
+
+**Feedback you choose to send.** If you tell us the app isn't for you, you can write us a message. We store the text you typed, with the app version, language and OS, on our server (Google Firebase). It carries no identifier and isn't linked to you; don't put personal details in it if you'd rather not share them.
 
 ## What we don't collect
 
@@ -29,6 +31,7 @@ This is the privacy policy for **Timeout**, a party game app developed by Tom Ho
 
 - The deck catalog. This is shared content used by all players — it does not include any of your data.
 - The anonymous usage statistics described above, on PostHog's EU servers.
+- The feedback messages you chose to send.
 
 ## Permissions we ask for
 

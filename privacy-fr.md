@@ -12,7 +12,9 @@ Politique de confidentialité de **Timeout**, un jeu de société développé pa
 
 **Rien de personnel.** L'application n'a pas de comptes utilisateur, pas d'inscription, pas de profil. Nous ne demandons ni votre nom, ni votre email, ni votre localisation, ni vos contacts, ni vos photos, ni aucune autre information personnelle.
 
-**Statistiques d'utilisation anonymes.** L'application envoie quelques événements de jeu (app ouverte ou fermée, partie lancée, manche ou partie terminée, partie abandonnée, deck consulté, notifications acceptées ou refusées, notification ouverte) avec le deck joué, le nombre de joueurs et d'équipes et la durée de la partie, ainsi que la version de l'app, l'OS et la langue. Ils sont envoyés à PostHog, hébergé dans l'UE. Ils ne portent aucun identifiant : rien n'est stocké sur votre appareil pour le reconnaître, il n'y a pas de profil utilisateur, votre adresse IP n'est pas utilisée pour vous localiser, et deux parties jouées sur le même téléphone ne peuvent pas être reliées entre elles. Les noms des joueurs et le contenu des cartes ne sont jamais envoyés. Ces statistiques sont conservées 25 mois au maximum, puis supprimées.
+**Statistiques d'utilisation anonymes.** L'application envoie quelques événements de jeu (app ouverte ou fermée, partie lancée, manche ou partie terminée, partie abandonnée, deck consulté, notifications acceptées ou refusées, notification ouverte, réponse à la question « ça te plaît ? », retour envoyé) avec le deck joué, le nombre de joueurs et d'équipes et la durée de la partie, ainsi que la version de l'app, l'OS et la langue. Ils sont envoyés à PostHog, hébergé dans l'UE. Ils ne portent aucun identifiant : rien n'est stocké sur votre appareil pour le reconnaître, il n'y a pas de profil utilisateur, votre adresse IP n'est pas utilisée pour vous localiser, et deux parties jouées sur le même téléphone ne peuvent pas être reliées entre elles. Les noms des joueurs et le contenu des cartes ne sont jamais envoyés. Ces statistiques sont conservées 25 mois au maximum, puis supprimées.
+
+**Les retours que vous choisissez d'envoyer.** Si l'app ne vous plaît pas, vous pouvez nous écrire un message. Nous conservons le texte saisi, avec la version de l'app, la langue et l'OS, sur notre serveur (Google Firebase). Il ne porte aucun identifiant et n'est pas relié à vous ; n'y mettez pas d'informations personnelles si vous ne souhaitez pas les partager.
 
 ## Ce que nous ne collectons pas
 
@@ -29,6 +31,7 @@ Politique de confidentialité de **Timeout**, un jeu de société développé pa
 
 - Le catalogue de decks. Ce contenu est partagé par tous les joueurs et ne contient aucune donnée vous concernant.
 - Les statistiques d'utilisation anonymes décrites plus haut, sur les serveurs européens de PostHog.
+- Les messages de retour que vous avez choisi d'envoyer.
 
 ## Permissions demandées
 
